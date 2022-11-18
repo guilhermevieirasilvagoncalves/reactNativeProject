@@ -1,11 +1,28 @@
-# Sample Snack app
+# Projeto com React Native para a matéria CC4670
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## ❕Requisitos do projeto
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+- [x] O aplicativo deve conter 4 telas, no mínimo 
+- [x] O aplicativo deve conter imagens e alguma animação 
+- [x] Você deve utilizar alguma forma de armazenamento de dados: com Firebase (banco de dados - nuvem) ou com o AsyncStorage (armazenamento local) 
+- [x] Faça a leitura de algum sensor do celular ou faça funcionar algum atuador para melhorar a interação com o usuário (exemplos: Som, Vibração, Acelerômetro etc.) 
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## 🛠️ Construído com
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+* [React Native](https://reactnative.dev/)
+* [Javascript](https://www.javascript.com/)
+* [Expo.io](https://expo.dev/)
+* [Firebase](https://firebase.google.com/?hl=pt)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## 📄 Licença
+
+Este projeto está sob a licença (MIT License) - veja o arquivo [LICENSE.md](https://github.com/guilhermevieirasilvagoncalves/reactNativeProject/blob/main/LICENSE) para detalhes.
+
+## ✒️ Authors
+
+[Guilherme Vieira](https://github.com/guilhermevieirasilvagoncalves)           |  [Kenzo Sugai](https://github.com/Kenzo-Sugai)         
+:-------------------------:|:-------------------------:|
+<img src="https://avatars.githubusercontent.com/u/88863957?v=4" alt="drawing" width="150"/>  |  <img src="https://avatars.githubusercontent.com/u/79611160?v=4" alt="drawing" width="150"/>
+22.121.025-5 | 22.121.005-7
+
+⌨️ com ❤️ por [Guilherme Vieira](https://github.com/guilhermevieirasilvagoncalves) e [Kenzo Sugai](https://github.com/Kenzo-Sugai)
