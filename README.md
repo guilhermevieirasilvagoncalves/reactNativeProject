@@ -1,6 +1,6 @@
 # Projeto com React Native para a matéria CC4670
 
-## ❕Requisitos do projeto
+## ✅ Requisitos do projeto
 
 - [x] O aplicativo deve conter 4 telas, no mínimo 
 - [x] O aplicativo deve conter imagens e alguma animação 
